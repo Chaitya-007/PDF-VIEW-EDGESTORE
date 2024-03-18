@@ -28,7 +28,7 @@ function PDFViewer() {
         
       } else {
         setPdfFile(null)
-        alert('Please select a PDF file')
+        alert('Please select the PDF file')
       }
     } else {
       console.log('Select your file')
